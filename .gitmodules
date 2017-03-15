@@ -1,0 +1,3 @@
+[submodule "anotacionsub"]
+	path = anotacionsub
+	url = https://github.com/wilortega/anotacionsub.git
